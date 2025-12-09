@@ -1,0 +1,5 @@
+name: FD-and-AS
+version: 1.0
+main: ru.dimfavvar.fdintegration.FDIntegration
+api-version: 1.21.1
+depend: [AuraSkills]
